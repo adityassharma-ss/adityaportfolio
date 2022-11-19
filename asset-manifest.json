@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/adityaportfolio/static/css/main.f83490a6.css",
+    "main.js": "/adityaportfolio/static/js/main.5c992090.js",
+    "static/js/787.1ed0c42c.chunk.js": "/adityaportfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/logo-s.png": "/adityaportfolio/static/media/logo-s.fd6a3deebb1044e4b974.png",
+    "static/media/logo_sub.png": "/adityaportfolio/static/media/logo_sub.b76ac3fd01e4cddd3941.png",
+    "static/media/helvetica-neu.ttf": "/adityaportfolio/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/LaBelleAurore.woff": "/adityaportfolio/static/media/LaBelleAurore.9c5433c64baa43d1d274.woff",
+    "static/media/LaBelleAurore.woff2": "/adityaportfolio/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/CoolveticaRg-Regular.woff": "/adityaportfolio/static/media/CoolveticaRg-Regular.8307bfa187bccdc55f4d.woff",
+    "static/media/CoolveticaRg-Regular.woff2": "/adityaportfolio/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/adityaportfolio/index.html",
+    "main.f83490a6.css.map": "/adityaportfolio/static/css/main.f83490a6.css.map",
+    "main.5c992090.js.map": "/adityaportfolio/static/js/main.5c992090.js.map",
+    "787.1ed0c42c.chunk.js.map": "/adityaportfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f83490a6.css",
+    "static/js/main.5c992090.js"
+  ]
+}
