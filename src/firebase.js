@@ -7,13 +7,13 @@ import { getFirestore } from 'firebase/firestore/lite';
 // TODO: Add SDKs for Firebase products that you want to use
 
 const firebaseConfig = {
-  apiKey: "AIzaSyD8Fd56kpP6Mc8a9h-BTRM17hAKZaGpLMM",
-  authDomain: "personalportolio-15e53.firebaseapp.com",
-  projectId: "personalportolio-15e53",
-  storageBucket: "personalportolio-15e53.appspot.com",
-  messagingSenderId: "508668036873",
-  appId: "1:508668036873:web:5c8b272a1185ad451bb5d8",
-  measurementId: "G-J2FXCN9VR1"
+  apiKey: "",
+  authDomain: "",
+  projectId: "3",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: "",
+  measurementId: ""
 };
 
 // Initialize Firebase
